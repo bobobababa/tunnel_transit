@@ -1,0 +1,12 @@
+﻿key,text,tag1,tag2
+name,Hubert,1,2
+hot,好热啊，要吃个冰棒吗？今天气温有{temp_c}。,3,
+hot,今天气温有{temp_c}，真的是要死人了。,,
+hot,希望这是今年的最高温，{temp_c}。,,
+hot,这种温度，甚至想要去搬去极寒气候的地方住了。,,
+hot,{temp_c}。听说你们那里有不错的降温设备，不知道和冰系魔法有没有什么关系？,,
+good_tempreture,气温还可以，{temp_c}，很舒服。,,
+good_tempreture,气温为{temp_c}，我喜欢热一点，但这种温度确实也很舒服。,,
+good_tempreture,今天温度是{temp_c}，希望可以再这样持续一阵。,,
+good_tempreture,{temp_c}。,,
+good_tempreture,{temp_c}，这样的气温可以做很多事情。,,
