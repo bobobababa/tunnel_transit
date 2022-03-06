@@ -1,0 +1,12 @@
+// Paul Ekman identified six basic emotions: anger, disgust, fear, happiness, sadness and surprise.
+// We add an additional one based on Paul Ekman's theory: idle
+
+https://en.wikipedia.org/wiki/Emotion_classification
+
+1: anger
+2: disgust
+3: fear
+4: happiness
+5: sadness
+6: surprise
+7: idle
